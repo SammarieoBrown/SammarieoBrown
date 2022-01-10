@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SammarieoBrown
 - 👀 I’m interested in Artificial Intelligence, Mathematics and Quantitative finance
-- 🌱 I’m currently learning about machine learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Algorithmic Trading Strategies 
 - 📫 How to reach me @sammarieobrown21@gmail.com
 
 <!---
