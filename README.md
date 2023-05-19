@@ -5,15 +5,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/are-transformers-effective-for-time-series/time-series-forecasting-on-etth1-168)](https://paperswithcode.com/sota/time-series-forecasting-on-etth1-168?p=are-transformers-effective-for-time-series)
+
 - 🔭 I’m currently working on **AI Algorithmic Trading Platform**
 
 - 📝 I regularly write articles on [https://medium.com/@sammarieobrown](https://medium.com/@sammarieobrown)
 
 - 📫 How to reach me **sammarieobrown21@gmail.com**
 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
